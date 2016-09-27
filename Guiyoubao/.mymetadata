@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Guiyoubao"
+  id="myeclipse.1471836848033"
+  context-root="/Guiyoubao"
+  j2ee-spec="5.0"
+  archive="Guiyoubao.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
